@@ -45,10 +45,10 @@ Don't Worry I would also help you out in Running your 1st Program........
 			-->	person(Name,Add,City,State,Zip)
 
 9.Give the inputs
-		Your Name	And enter
-		Your Address	And enter
-		Your City		And enter
-		Your State	And enter
+		Your Name	And enter,
+		Your Address	And enter,
+		Your City		And enter,
+		Your State	And enter,
 		Your Zip		And enter
 
 10.Now its Done and You have Successfully Completed Your 1st Practical 
