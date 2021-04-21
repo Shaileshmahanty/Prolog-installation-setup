@@ -32,7 +32,7 @@ Don't Worry I would also help you out in Running your 1st Program........
 
 3.Again Enter
 
-4.go to "PRAC~1" and enter(click Right Arrow Key)
+4.go to "PRACTI~1" and enter(click Right Arrow Key)
 
 5.go to the Desired Practical for Eg. Practical 1 "Address.pro" and enter	(Using Arrow Keys)
 
