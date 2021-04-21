@@ -11,7 +11,7 @@ Step 2: copy-paste "prolog" Folder into your C drive.
 Step 3: Open DosBox.
 
 Write-  
-	mount c c:\prolog
+	mount c C:\prolog
 
 write-  
 	c:
