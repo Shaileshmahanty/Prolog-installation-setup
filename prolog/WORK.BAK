@@ -1,0 +1,15 @@
+predicates
+male(symbol)
+female(symbol)
+parent(symbol,symbol)
+
+clauses
+male(bill).
+male(natu).
+
+female(bipasha).
+female(sasha).
+
+parent(bill,sasha).
+parent(natu,bipasha).
+parent(natu,sasha).

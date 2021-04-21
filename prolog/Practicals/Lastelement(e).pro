@@ -1,0 +1,9 @@
+domains 
+namelist=symbol* 
+predicates 
+last(namelist,symbol)
+clauses 
+last([Head],X):-
+X=Head. 
+last([_|Tail],X):-
+last(Tail,X).

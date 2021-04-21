@@ -1,0 +1,9 @@
+domains 
+symbollist=symbol* 
+predicates 
+delete(symbol,symbollist,symbollist) 
+clauses 
+delete(_,[],[]). 
+delete(X,[X|L],L):-!. 
+delete(X,[Y|L],[Y|M]):-
+delete(X,L,M)
