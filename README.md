@@ -58,7 +58,7 @@ Similarly,You can go on with all other Practicals From 5 to 14.
 You can also refer to my Screenshots in "Sreenshots" Folder (sc1,sc2,sc3,sc4,sc5)(sc6 to sc11).
 And refer "prolog/Practicals" Folder for all Our Practicals.
 
-if you had Downloaded this Repository Then You could still Open "Read.md" File with Notepad for your Instructions.
+-If you had Downloaded this Repository Then You could still Open "Read.md" File with Notepad for your Instructions.
 
 
 
