@@ -55,7 +55,7 @@ Don't Worry I would also help you out in Running your 1st Program........
 Similarly,You can go on with all other Practicals From 5 to 13.
 
 
-You can also refer to my Screenshots in "Sreenshots" Folder (sc1,sc2,sc3,sc4,sc5).
+You can also refer to my Screenshots in "Sreenshots" Folder (sc1,sc2,sc3,sc4,sc5)(sc6 to sc11).
 
 
 
