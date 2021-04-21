@@ -21,6 +21,8 @@ write-
 
 Now Prolog might be well Working......
 
+-------------------------------------------------------------------------------
+
 I have already Setup all Our Practicals in the Prolog for You All.
 Don't Worry I would also help you out in Running your 1st Program........
 
@@ -56,6 +58,7 @@ Similarly,You can go on with all other Practicals From 5 to 14.
 
 
 You can also refer to my Screenshots in "Sreenshots" Folder (sc1,sc2,sc3,sc4,sc5)(sc6 to sc11).
+
 
 -If you had Downloaded this Repository Then You could still Open "Read.md" File with Notepad for your Instructions.
 
